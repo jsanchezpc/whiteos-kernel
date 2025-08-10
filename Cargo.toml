@@ -6,7 +6,7 @@ authors = ["Jorge Sánchez jsanchezpc@hotmail.com"]
 
 [[bin]]
 name = "kernel"
-test = false
+test = true
 bench = false
 
 [dependencies]
